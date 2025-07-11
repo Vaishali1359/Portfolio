@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
-import vaishaliImg from "../assets/vaishali.jpg"; // Your photo here
+import vaishaliImg from "../assets/Vaishali.jpg"; // Your photo here
 
 const name = "Vaishali".split("");
 const jobTitle = ["Software", "Engineer"];
