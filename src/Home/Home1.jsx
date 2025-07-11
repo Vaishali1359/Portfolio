@@ -95,7 +95,7 @@ const Home1 = () => {
             href="#projects"
             className="inline-block bg-teal-500 hover:bg-teal-600 text-white font-medium px-6 py-3 rounded-lg transition duration-300"
           >
-            View My C
+            View My CV
           </a>
         </div>
 
